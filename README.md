@@ -1,2 +1,5 @@
 # RAG-SYSTEM
 RAG-Enable Immigration Chatbot
+### Abstract
+
+Immigrating can be regulated complex and daunting journey with rules constantly changing and with complex term. In this report, we present the development of a smart chatbot to simplify immigration flows by providing accurate and friendly legal information. The chatbot takes advantage of advanced AI technologies to use Retrieval-Augmented Generation (RAG) to retrieve real time, trusted data to help it respond with clear, contextual, relevant responses through Large Language Models (LLMs). This project shows a minimal viable implementation of RAG in the legal domain, highlighting accessibility and accuracy. This prototype considers the use of immigration related queries, but the potential of this approach lies in other legal fields. Upcoming versions will feature real time updates saved in vector storage, a more natural user interface and a broader legal coverage. This chatbot aims to democratize legal assistance through bridging gaps between language used by complex legal framework and the user’s ability to comprehend it.
